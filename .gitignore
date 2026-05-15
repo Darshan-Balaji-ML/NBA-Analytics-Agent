@@ -1,0 +1,9 @@
+data/
+charts/
+research_log.txt
+session_memory.json
+venv/
+nba-agent/
+__pycache__/
+*.pyc
+.env
